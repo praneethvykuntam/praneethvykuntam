@@ -7,6 +7,8 @@ Hi there! 👋 Welcome to my GitHub
 📦 At Middle House Developments, I worked closely with stakeholders and partners, supporting planning, coordination, and analysis tasks. I also used analytical and digital tools to organize information, improve visibility, and support smoother workflows. I see these tools as practical aids that help simplify information and support better decisions.
 
 🚀 Today, I’m looking to contribute to teams in supply chain, procurement, or planning roles, where I can apply my analytical skills, attention to detail, and collaborative approach. I value learning, clear communication, and steady improvement, and I aim to support efficient and well-organized operations.
+
+
 ---
 
 ##### Languages and Tools
