@@ -1,14 +1,12 @@
-# Hi there! 👋 Welcome to my GitHub
+Hi there! 👋 Welcome to my GitHub
 
-👩‍💻 I didn’t plan to become a data analyst – and that’s exactly what makes my journey compelling.  
-🎓 After graduating with a bachelor’s in a completely different field, I stepped into my first analyst role with curiosity and a steep learning curve ahead of me. Very quickly, I realized something important: I wasn’t just learning a new skillset — I had found the work that truly energizes me.  
+👩‍💻 I didn’t initially plan to work in supply chain and procurement, but my journey naturally led me there. After completing my bachelor’s degree in a different field, I stepped into my first professional role with curiosity and a strong willingness to learn. That experience helped me understand how day-to-day operations support business outcomes.
 
-📊 Data became more than numbers on a screen; it became the lens through which I could understand how businesses operate, connect, and grow. That curiosity led me to **Trent University**, where I earned my **Master’s in Management** — deepening my understanding of the bigger picture, the “why” behind the “what,” and how strategy and data fuel each other.  
+🎓 Wanting to strengthen my business understanding, I pursued a Master’s in Management at Trent University. This helped me build a clearer view of how planning, coordination, and data support decision-making across functions such as supply chain, procurement, and operations.
 
-🏢 At **Middle House Developments**, I didn’t just analyze data — I explored the power of **AI tools** to make work smarter instead of harder. In an age where AI is evolving at lightning speed, I see these tools not as replacements, but as essential companions — just like any visualization platform or analytical method. The right tool, in the right hands, turns complexity into clarity.  
+📦 At Middle House Developments, I worked closely with stakeholders and partners, supporting planning, coordination, and analysis tasks. I also used analytical and digital tools to organize information, improve visibility, and support smoother workflows. I see these tools as practical aids that help simplify information and support better decisions.
 
-🚀 Today, I’m ready to work with companies across industries, bringing together business insight, analytical rigor, and a mindset that thrives on exploration. For me, each project is a new puzzle, and the thrill lies in solving it with a blend of **data, creativity, and strategy**.  
-
+🚀 Today, I’m looking to contribute to teams in supply chain, procurement, or planning roles, where I can apply my analytical skills, attention to detail, and collaborative approach. I value learning, clear communication, and steady improvement, and I aim to support efficient and well-organized operations.
 ---
 
 ##### Languages and Tools
